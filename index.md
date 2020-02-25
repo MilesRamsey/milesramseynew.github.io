@@ -1,4 +1,13 @@
+
+
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+search: exclude
+---
+
 Intro
 
 I’m a young professional living in downtown Salt Lake City. Currently I work as a Senior Developer at Salesforce Commerce Cloud working on point of sale software. In my free time I enjoy playing dodgeball and kickball, playing retro video games, and most recently collecting vinyl. I always like to have a book to read, and currently it’s Alice’s Adventures in Wonderland by Lewis Carroll. I’m always looking for something new to learn, and am currently pursuing getting a Master’s Degree.
@@ -33,13 +42,6 @@ Received Honors at Entrance Scholorship
 Scored in the 99th percentile on ACT
 Buffer Bomb - disarming a “bomb” reading only compiled assembly code
 Created a Netflix clone using relational databases
-
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-search: exclude
 ---
 
 This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
