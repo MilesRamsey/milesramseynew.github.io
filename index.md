@@ -1,7 +1,7 @@
 ---
-- layout: home
-- search: exclude
-- title: Miles Ramsey
+layout: home
+search: exclude
+title: Miles Ramsey
 
 ---
 
