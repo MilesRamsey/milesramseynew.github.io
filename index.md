@@ -1,8 +1,6 @@
 ---
 layout: home
 search: exclude
-title: Miles Ramsey
-
 ---
 
 Intro
