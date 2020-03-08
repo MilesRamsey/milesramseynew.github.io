@@ -10,8 +10,8 @@ search: exclude
 * MBA Student @ University of Utah
 * SLC, Utah
 
-test | hello
------|------
+| t |  a|
+|---|---|
 
 
 Intro
