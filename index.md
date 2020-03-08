@@ -1,6 +1,11 @@
 ---
 layout: home
 search: exclude
+title: "Miles Ramsey"
+summary: "Awesome summary"
+toc: false
+comments: true
+image: images/miles_ramsey.jpg
 ---
 
 Intro
