@@ -10,6 +10,7 @@ search: exclude
 * MBA Student @ University of Utah
 * SLC, Utah
 
+test | hello
 
 
 Intro
