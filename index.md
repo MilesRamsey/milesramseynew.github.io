@@ -6,7 +6,9 @@ search: exclude
 ![]({{ site.baseurl }}/images/miles_ramsey.jpg "Profile Picture")
 
 # Miles Ramsey
-
+* Software Engineering Manager @Salesforce
+* MBA Student @ University of Utah
+* SLC, Utah
 
 
 
