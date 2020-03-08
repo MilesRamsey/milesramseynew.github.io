@@ -1,12 +1,14 @@
 ---
 layout: home
 search: exclude
-title: "Miles Ramsey"
-summary: "Awesome summary"
-toc: false
-comments: true
-image: images/miles_ramsey.jpg
 ---
+
+![]({{ site.baseurl }}/images/miles_ramsey.jpg "Profile Picture")
+
+# Miles Ramsey
+
+
+
 
 Intro
 
